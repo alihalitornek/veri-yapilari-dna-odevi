@@ -1,0 +1,1 @@
+Lütfen kullanmak istediğiniz Dna.txt ve Islemler.txt dosyalarını bu klasörün içine atın.
